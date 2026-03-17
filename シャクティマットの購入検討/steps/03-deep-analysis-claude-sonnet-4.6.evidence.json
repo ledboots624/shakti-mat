@@ -1,0 +1,194 @@
+{
+  "step": 3,
+  "role": "deep-analysis",
+  "model": "claude-sonnet-4.6",
+  "extracted_at": "2026-03-17T11:34:44Z",
+  "claims": [
+    {
+      "claim": "初回使用の「痛みの壁」が最大の離脱リスクであり、体験設計の失敗が購入判断の後悔に直結する。",
+      "evidence": "Amazonレビュー分析で返品理由の最多は「痛すぎた」であり、長期使用者の多くは「慣れると病みつき」と評価する二極化がある。初回セッションの推奨時間（10〜20分）を守れない場合、エンドルフィン放出フェーズ（約5〜10分経過後）に到達できず「痛みだけ体験して終わり」になる。Shakti Mat公式サイトも「最初の3〜5分は強い痛みを感じる」ことが正常仕様と明示している。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "Amazon.com Acupressure Mat Reviews - Return Reason Analysis",
+        "source_locator": "https://www.amazon.com/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Light（Yellow）は「敏感者向け」として設計されているが、それでも感覚過敏（Hypersensitivity）を持つユーザーにはリスクが存在する。",
+      "evidence": "スパイク数が多い（約8,000個）Lightモデルは接触面積が増え圧力を分散させる仕組みだが、感覚過敏は神経系の反応閾値の問題であり圧力分散で解決できない。高齢者は皮膚菲薄化と皮下組織の減少により圧力が骨に直達しやすく、通常より痛みが強く感じられる可能性がある（推測）。日本語圏のブログレビューでは「50代以上で試した人は最初が辛かった」という記述が散見される。高齢者特有の反応については臨床データなし。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Mat Japan - Product FAQ",
+        "source_locator": "https://shaktimat.co.jp/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "low",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "慢性コリ・腰痛持ちの中級者（過去にマッサージ・鍼灸経験あり）はシャクティマットの「主力顧客層」であり、最も高い費用対効果が期待できるセグメントである。",
+      "evidence": "鍼灸・マッサージ経験者は痛みの受容閾値が高く、初回の痛みを「効いている感覚」として再解釈できるため離脱率が低い。慢性腰痛に対するRCTにおいて、アクプレッシャーマット＋理学療法の併用群が対照群を有意に上回る改善を示しており、この属性への有効性は最も根拠が厚い。マッサージ1回¥3,000〜¥6,000と比較した場合、¥23,000の投資は「週1回マッサージの約4〜8週分」であり毎日使用すれば月単位で元が取れるコスト構造を持つ。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (MDPI)",
+        "source_locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+        "access_date": "2021",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Advanced（Purple）はハードユーザー向けだが、「運動後回復」目的での使用には有効性の根拠が限定的である。",
+      "evidence": "スポーツ回復の文脈でのアクプレッシャーマット専用研究は現時点で存在せず、「筋肉痛軽減」「DOMS（遅発性筋肉痛）への効果」については科学的データが不在（未確定）。アクプレッシャーマットはマッサージとは異なり「表層皮膚への圧力刺激」が主体であり、実際に深部組織に到達するかどうかは疑問が残る（推測）。Redditではアスリートによる主観的評価はあるが、パフォーマンス向上との因果関係は不明。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "Reddit r/running - Acupressure Mat Post-workout Discussion",
+        "source_locator": "https://www.reddit.com/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 100,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "low",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "睡眠改善・自律神経への効果は「二次的効果（痛みが引いた後のリラックス反応）」として発生するものであり、「睡眠薬代替」等の強い期待には応えられない。",
+      "evidence": "アクプレッシャーがコルチゾール低下と心拍変動（HRV）改善をもたらすことは複数の研究で示されているが、マット使用中の「痛みが和らいだ後の副交感神経優位化」によるものと考えられる。3週間のアクプレッシャーマット使用プロトコルにおいて主観的ストレス認知の有意な低下が確認されているが、「能動的リラクゼーション（マットなし）」との差は統計的に限定的であった。つまり「マット特異的」な効果よりも「ルーティン化されたリラックス行為」自体の効果の可能性がある。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Regular use of acupressure mats reduces perceived stress at subjective wellbeing level (IAAP Journals)",
+        "source_locator": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Matの¥23,000という価格は「マット自体の機能価格」ではなく「ブランド価値・倫理的生産・耐久性・サポート体制」を包括したバンドル価格であり、純粋な「機能コスパ」では正当化が難しい。",
+      "evidence": "5年間使用前提でのコスト比較ではShakti¥23,000とGeneric年1回交換（¥4,000×5年＝¥20,000）で実質的な価格差はほぼなし。一方、安価品でも十分な効果が得られるという報告も多く、¥23,000の価値を「効果の質」のみで正当化するのは困難。Shaktiは60日間返金保証・GOTS認証オーガニック素材・3段階強度選択・フェアトレード認証等の付加価値を持つ。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Mat Japan - Warranty & Trial Policy",
+        "source_locator": "https://shaktimat.co.jp/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "コスパは「使用頻度×継続期間」に対して非線形に向上する構造であり、月3回未満の使用では投資回収が困難。",
+      "evidence": "毎日5年使用（1,800回）では¥13/回、週3回2年（300回）では¥77/回、週1回1年（52回）では¥442/回、月2〜3回1年（30回）では¥767/回となる試算。マッサージ1回¥3,000〜¥6,000との比較では週3回以上の使用で数ヶ月以内に元が取れる計算になる。コスト計算は確実だが継続率の推定は不確定。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "コスト試算は公式価格を基に試算",
+        "source_locator": "unknown",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットの効果には「科学的に支持されているもの」と「ユーザー体験が先行しているもの」が混在しており、この区別をしないと過剰期待または過小評価につながる。",
+      "evidence": "慢性腰痛の緩和は科学的支持レベル中〜高（RCTあり）でユーザー評価と「ほぼ一致」。自律神経・コルチゾール低下は科学的支持「中」（生理指標研究あり）で機序は一致するが効果量は不明。睡眠改善は科学的支持「低〜中」（主観的改善報告のみ）に対しユーザー満足度が非常に高く過大評価の可能性がある。疾病治療（頭痛等）は科学的支持「低」で「ギャップ最大」（誇大広告リスク）。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (MDPI)",
+        "source_locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+        "access_date": "2021",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットの効果の一部はプラセボ効果である可能性が高いが、「プラセボだから無価値」という結論は科学的に誤りである。",
+      "evidence": "鍼灸・指圧の大規模メタ分析では「本物の鍼灸」と「偽物の鍼灸（シャム群）」で疼痛軽減効果に統計的有意差が見られないケースがある（アクプレッシャー≒プラセボという解釈も存在）。一方、神経科学の最新研究（2024年）ではプラセボ効果自体が脳内の特定回路の活性化により実際の生理的変化（エンドルフィン分泌、疼痛信号の抑制）をもたらすことが確認されており、「プラセボ＝偽物」という旧来の二項対立は現代神経科学では否定されている。ゲートコントロール理論（Melzack & Wall, 1965）のスパイクによるAβ線維活性化・脊髄後角での痛み信号伝達抑制という機序も部分的に支持されている。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Acupuncture for the Treatment of Pain – A Mega-Placebo? (Frontiers in Neuroscience)",
+        "source_locator": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01110/full",
+        "access_date": "2019",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "シャクティマット公式の訴求には科学的に過大な表現が含まれる可能性があり、批判的に評価する必要がある。",
+      "evidence": "「自律神経を整える」「免疫力を高める」等の表現は現時点の科学的エビデンスでは「示唆レベル」に留まり確立した臨床効果とは言えない（推測）。一方「血行を促進する」「筋肉の緊張をほぐす」「リラクゼーションをもたらす」については生理学的メカニズムとの整合性が高く合理的な表現と言える。日本の薬機法上、医療機器として承認されていないウェルネス製品は「治療・治癒」を標榜できないが、実際の法的審査状況は未確認。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Mat Japan Official",
+        "source_locator": "https://shaktimat.co.jp/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "low",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットの継続率は一般的なウェルネス製品と同様の課題を持ち、特に「痛みによる初期離脱」「効果の遅延認知」「ルーティン未確立」の3点が継続の主要な障壁となる。",
+      "evidence": "初回使用者の多くは「耐えられないほど痛い」と記述し1〜2週間の適応期間を越えられない場合に使用停止となる。痛みの緩和効果は「継続使用2週間〜1ヶ月で実感」とされることが多く即効性を期待するユーザーとの乖離が大きい。習慣形成研究では平均66日の繰り返しが必要とされており、即効性のないウェルネスツールは特に離脱リスクが高い。「どのタイミングで使うか」が明確でないと使用頻度が急速に低下し、マットのサイズ（収納の手間）も毎日取り出す動作コストとして機能する可能性がある。研究参加者は内発的動機が高いバイアスがあり、一般購入者の離脱率はより高いと推定される（推測）。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Regular use of acupressure mats reduces perceived stress (IAAP Journals)",
+        "source_locator": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    }
+  ]
+}

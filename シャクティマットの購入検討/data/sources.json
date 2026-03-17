@@ -1,0 +1,615 @@
+{
+  "generated_at": "2026-03-17T12:05:07Z",
+  "generator": "AI Research Agent v2.5.0",
+  "total_sources": 31,
+  "tier_summary": {
+    "tier1": 5,
+    "tier2": 6,
+    "tier3": 15,
+    "tier4": 5
+  },
+  "primary_source_count": 11,
+  "sources": [
+    {
+      "id": "SRC-001",
+      "source_type": "industry_report",
+      "title": "Acupressure Mat Benefits: 14 Reasons",
+      "locator": "https://www.thegoodbody.com/acupressure-mat-benefits/",
+      "url": "https://www.thegoodbody.com/acupressure-mat-benefits/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "アクプレッシャー（指圧）全般に関するメタ分析では、不安症状の軽減に効果があることが示されている。"
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "source_type": "academic_paper",
+      "title": "Acupuncture for the Treatment of Pain – A Mega-Placebo? (Frontiers in Neuroscience)",
+      "locator": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01110/full",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01110/full",
+      "access_date": "2019",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "アクプレッシャーマットの効果の一部はプラセボ効果である可能性が高いが、「プラセボだから無価値」という結論は科学的に誤りである。"
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "source_type": "community_data",
+      "title": "Amazon.co.jp シャクティマット プレミアム",
+      "locator": "https://www.amazon.co.jp/dp/B0DHCKTY9R",
+      "url": "https://www.amazon.co.jp/dp/B0DHCKTY9R",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "1 year+",
+        "participant_count": 207,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "Amazon.co.jp で ☆4.6/5（レビュー200件超）、MONOQLO専門家比較テストで総合1位を獲得。ポジティブ評価（肩こり緩和・睡眠改善・リラクゼーション）が圧倒的多数だが、「最初の痛み..."
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "source_type": "community_data",
+      "title": "Amazon.com Acupressure Mat Reviews - Return Reason Analysis",
+      "locator": "https://www.amazon.com/",
+      "url": "https://www.amazon.com/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "初回使用の「痛みの壁」が最大の離脱リスクであり、体験設計の失敗が購入判断の後悔に直結する。"
+      ]
+    },
+    {
+      "id": "SRC-005",
+      "source_type": "unknown",
+      "title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "unknown",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 8,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "Shakti Matのフェアトレード・オーガニック素材という特徴は、エシカル消費に関心がある層に適している。",
+        "アクプレッシャーマットは即効性がなく、効果を得るためには最低2週間の習慣化が必要である。",
+        "アクプレッシャーマットを効果的に使うためには、最初の数分の激痛を「通過儀礼」として耐えられる「痛み＝効いている」と捉えられるメンタリティが必要である。",
+        "アトピー性皮膚炎・湿疹・傷など皮膚トラブルがある人がアクプレッシャーマットを使用すると、症状を悪化させるリスクが高い。",
+        "デスクワーカーや立ち仕事従事者など慢性的な筋肉疲労・コリがある人には、Shaktiの鋭い刺激が特に有効である。",
+        "体重が極端に軽い人はアクプレッシャーマットの圧がかかりにくく、効果を感じにくい場合がある（枕を腰に当てるなどの工夫が必要）。",
+        "感覚過敏（Hypersensitivity）のある人には、スパイクの刺激が神経系に過剰なストレスを与え、リラックス効果が得られない可能性がある。",
+        "睡眠導入に課題がある人（ベッドに入っても交感神経が高ぶっているタイプ）には、マット使用後の血行促進による「ポカポカする感覚」が入眠儀式として機能する。"
+      ]
+    },
+    {
+      "id": "SRC-006",
+      "source_type": "unknown",
+      "title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 7,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "Shakti Mat (Original) は、品質・耐久性・倫理的価値において競合他社（Nayoya, LifeZempra）を明確に上回っており、長期的な使用を前提とするなら価格差に見合う価値があ...",
+        "Shakti Premium Mat (Original/Green) は公式サイトまたは正規代理店で購入することが推奨される。まずはOriginalから入るのが無難で、Lightは刺激が足りなくなる...",
+        "「安さ」よりも「確実な刺激（針の鋭さ）」と「長期間の耐久性」を重視し、フェアトレードに共感するユーザーにはShakti Mat一択である。",
+        "「続くかわからないから安く試したい」場合の最もバランスの取れた代替案はNayoyaであり、LifeZempraは品質面での妥協が大きい。",
+        "アクプレッシャーマットは「魔法の治療器具」ではないが、腰痛緩和とリラックス（副交感神経優位化）については科学的支持が得られつつあり、セルフケアツールとして合理的に導入できる。",
+        "アクプレッシャーマット使用開始時は、最初の2週間は薄手のTシャツを着用して刺激に慣らすことが推奨される。",
+        "就寝前の20分間、ベッドの上でアクプレッシャーマットを使用するルーチンを確立することが推奨される。"
+      ]
+    },
+    {
+      "id": "SRC-007",
+      "source_type": "industry_report",
+      "title": "Dr. Body Gadget: Best Acupressure Mats 2026",
+      "locator": "https://www.drbodygadget.com/best-acupressure-mats/",
+      "url": "https://www.drbodygadget.com/best-acupressure-mats/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "競合製品（Nayoya、ProSourceFit、Bed of Nails等）はShaktiの1/3〜1/5の価格で基本的なアクプレッシャー機能を提供する。Shaktiの差別化要因は素材品質・倫理的製..."
+      ]
+    },
+    {
+      "id": "SRC-008",
+      "source_type": "academic_paper",
+      "title": "Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (MDPI)",
+      "locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+      "url": "https://www.mdpi.com/2076-3417/11/11/5211",
+      "access_date": "2021",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 3,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview",
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "アクプレッシャーマットの効果には「科学的に支持されているもの」と「ユーザー体験が先行しているもの」が混在しており、この区別をしないと過剰期待または過小評価につながる。",
+        "慢性コリ・腰痛持ちの中級者（過去にマッサージ・鍼灸経験あり）はシャクティマットの「主力顧客層」であり、最も高い費用対効果が期待できるセグメントである。",
+        "運動療法とアクプレッシャーマットの併用は、慢性腰痛患者の疼痛軽減とQOL向上に寄与する。"
+      ]
+    },
+    {
+      "id": "SRC-009",
+      "source_type": "industry_report",
+      "title": "Everyday Health: Best Acupressure Mats 2025",
+      "locator": "https://www.everydayhealth.com/wellness/best-acupressure-mat/",
+      "url": "https://www.everydayhealth.com/wellness/best-acupressure-mat/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 2,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "以下の条件に該当するユーザーは、シャクティマットの購入を見送るか、競合の安価品で試用すべきである: アクプレッシャー初体験で効果を試したい場合（→Nayoya ¥5,000 or ProSourceF...",
+        "感覚過敏（触覚過敏症）・皮膚疾患（アトピー性皮膚炎の活動期・乾癬等）・開放創・妊娠中の方は、医師相談なしにシャクティマットを使用してはならない（MUST_NOT: 実質的禁忌）。"
+      ]
+    },
+    {
+      "id": "SRC-010",
+      "source_type": "news_article",
+      "title": "Honest Opinions on Acupressure Mats",
+      "locator": "https://mysterylores.com/news/acupressure-mats-shakti-honest-experiences/",
+      "url": "https://mysterylores.com/news/acupressure-mats-shakti-honest-experiences/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "LifeZempraはShaktiの約1/3〜1/4の価格（$24〜$40程度）で購入可能な低価格帯入門モデルであり、素材は合成繊維中心である。"
+      ]
+    },
+    {
+      "id": "SRC-011",
+      "source_type": "academic_paper",
+      "title": "MDPI Applied Sciences: Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (2021)",
+      "locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+      "url": "https://www.mdpi.com/2076-3417/11/11/5211",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "アクプレッシャーマットの科学的有効性は、「理学療法（運動療法）との併用で慢性腰痛に中程度の効果」が最も堅牢なエビデンスである。マット単独使用の有効性を実証した高品質RCTは存在しない。睡眠改善・自律神..."
+      ]
+    },
+    {
+      "id": "SRC-012",
+      "source_type": "industry_report",
+      "title": "Nayoya Acupressure Mat Review",
+      "locator": "https://acupressureguide.com/nayoya-acupressure-mat-review/",
+      "url": "https://acupressureguide.com/nayoya-acupressure-mat-review/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "NayoyaはAmazon等で広く流通する「標準的な安価モデル」であり、Shaktiと同様の効果（血行促進・緩和）を謳うが、作りは一般的である。"
+      ]
+    },
+    {
+      "id": "SRC-013",
+      "source_type": "community_data",
+      "title": "Reddit r/running - Acupressure Mat Post-workout Discussion",
+      "locator": "https://www.reddit.com/",
+      "url": "https://www.reddit.com/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 100,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "Shakti Advanced（Purple）はハードユーザー向けだが、「運動後回復」目的での使用には有効性の根拠が限定的である。"
+      ]
+    },
+    {
+      "id": "SRC-014",
+      "source_type": "academic_paper",
+      "title": "Regular use of acupressure mats reduces perceived stress (IAAP Journals)",
+      "locator": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+      "url": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "アクプレッシャーマットの継続率は一般的なウェルネス製品と同様の課題を持ち、特に「痛みによる初期離脱」「効果の遅延認知」「ルーティン未確立」の3点が継続の主要な障壁となる。"
+      ]
+    },
+    {
+      "id": "SRC-015",
+      "source_type": "academic_paper",
+      "title": "Regular use of acupressure mats reduces perceived stress at subjective wellbeing level (IAAP Journals)",
+      "locator": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+      "url": "https://iaap-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12490",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "睡眠改善・自律神経への効果は「二次的効果（痛みが引いた後のリラックス反応）」として発生するものであり、「睡眠薬代替」等の強い期待には応えられない。"
+      ]
+    },
+    {
+      "id": "SRC-016",
+      "source_type": "official_document",
+      "title": "Shakti Japan Shipping & Returns",
+      "locator": "https://shaktimat.co.jp/pages/shipping-returns",
+      "url": "https://shaktimat.co.jp/pages/shipping-returns",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier1",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "Shakti Japan公式の60日返品保証は、未破損・期間内であれば理由を問わず返品可能だが、返送料は顧客負担であり、着払い返送の場合は手数料10%が差し引かれる。交換は不可。"
+      ]
+    },
+    {
+      "id": "SRC-017",
+      "source_type": "official_document",
+      "title": "Shakti Japan 公式コレクションページ",
+      "locator": "https://shaktimat.co.jp/collections/shaktimat",
+      "url": "https://shaktimat.co.jp/collections/shaktimat",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier1",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 2,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "シャクティマット日本公式（shaktimat.co.jp）は、Classic（¥16,500）とPremium（¥23,000）の2ラインを中心に展開し、ピロー付きセットで割引を提供している。",
+        "ピロー付きセットを選択してもよい（MAY）。肩こりが主目的の場合はピロー（Classic ¥9,000 / Premium ¥14,000）が首・肩の直接刺激に有効であり、MONOQLO 1位を受賞し..."
+      ]
+    },
+    {
+      "id": "SRC-018",
+      "source_type": "official_document",
+      "title": "Shakti Mat Japan - Product FAQ",
+      "locator": "https://shaktimat.co.jp/",
+      "url": "https://shaktimat.co.jp/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier1",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "Shakti Light（Yellow）は「敏感者向け」として設計されているが、それでも感覚過敏（Hypersensitivity）を持つユーザーにはリスクが存在する。"
+      ]
+    },
+    {
+      "id": "SRC-019",
+      "source_type": "official_document",
+      "title": "Shakti Mat Japan - Warranty & Trial Policy",
+      "locator": "https://shaktimat.co.jp/",
+      "url": "https://shaktimat.co.jp/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier1",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "Shakti Matの¥23,000という価格は「マット自体の機能価格」ではなく「ブランド価値・倫理的生産・耐久性・サポート体制」を包括したバンドル価格であり、純粋な「機能コスパ」では正当化が難しい。"
+      ]
+    },
+    {
+      "id": "SRC-020",
+      "source_type": "official_document",
+      "title": "Shakti Mat Japan Official",
+      "locator": "https://shaktimat.co.jp/",
+      "url": "https://shaktimat.co.jp/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier1",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "シャクティマット公式の訴求には科学的に過大な表現が含まれる可能性があり、批判的に評価する必要がある。"
+      ]
+    },
+    {
+      "id": "SRC-021",
+      "source_type": "unknown",
+      "title": "Shakti Mat Vs Bed Of Nails",
+      "locator": "https://storage.googleapis.com/dbiptqdduqsvae/shakti-mat-vs-bed-of-nails.html",
+      "url": "https://storage.googleapis.com/dbiptqdduqsvae/shakti-mat-vs-bed-of-nails.html",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "Bed of Nailsはアクプレッシャーマットの市場を開拓した元祖ブランドの一つであり、品質は高いが、Shaktiほど「オーガニック・倫理的生産」を前面に出していない。"
+      ]
+    },
+    {
+      "id": "SRC-022",
+      "source_type": "academic_paper",
+      "title": "Systematic Review: Effects of Acupressure on Anxiety",
+      "locator": "https://www.liebertpub.com/doi/10.1089/jicm.2020.0256",
+      "url": "https://www.liebertpub.com/doi/10.1089/jicm.2020.0256",
+      "access_date": "2020",
+      "reliability_tier": "tier2",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "アクプレッシャーマットの使用により入眠潜時の短縮や睡眠の質の主観的改善が報告されているが、頑健な臨床データは少ない。"
+      ]
+    },
+    {
+      "id": "SRC-023",
+      "source_type": "community_data",
+      "title": "Trustpilot shaktimat.co.uk",
+      "locator": "https://www.trustpilot.com/review/shaktimat.co.uk",
+      "url": "https://www.trustpilot.com/review/shaktimat.co.uk",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "2 years+",
+        "participant_count": 41,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "英語圏では製品自体の評価は高い（公式サイト☆4.8/5、37,873件）一方、Trustpilotでは地域によりスコアが低く（UK 2.8/5、NZ 2.0/5、DE 2.5/5）、配送遅延・カスタマ..."
+      ]
+    },
+    {
+      "id": "SRC-024",
+      "source_type": "community_data",
+      "title": "soloblog: シャクティマットの口コミ徹底調査",
+      "locator": "https://shirasusolo.net/life-changing-gadgets/post-1634/",
+      "url": "https://shirasusolo.net/life-changing-gadgets/post-1634/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "not_stated",
+        "participant_count": 1,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "シャクティマットの最大のネガティブ要因は「初回〜数回の強い痛み」であり、これが継続使用の最大の障壁となる。大多数のユーザーは1〜2週間の適応期間を経て「痛みが快感に転換する」と報告しているが、適応前に..."
+      ]
+    },
+    {
+      "id": "SRC-025",
+      "source_type": "unknown",
+      "title": "コスト試算は公式価格を基に試算",
+      "locator": "unknown",
+      "url": null,
+      "access_date": "unknown",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "コスパは「使用頻度×継続期間」に対して非線形に向上する構造であり、月3回未満の使用では投資回収が困難。"
+      ]
+    },
+    {
+      "id": "SRC-026",
+      "source_type": "unknown",
+      "title": "統合レビュー Conclusion（目的別推奨モデル表）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "睡眠改善・リラクゼーションが主目的のユーザーには、シャクティマット Classic マット（¥16,500）または究極のシャクティセット（¥22,950）を返品保証活用前提で試用することを推奨する（⭐..."
+      ]
+    },
+    {
+      "id": "SRC-027",
+      "source_type": "unknown",
+      "title": "統合レビュー Conclusion（購入推奨度の総合判定表）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "既に整骨院・鍼灸院に定期通院中のユーザーに対するシャクティマットの追加効果は限定的であり、担当施術者への相談を推奨する（⭐⭐ 追加効果は限定的）。"
+      ]
+    },
+    {
+      "id": "SRC-028",
+      "source_type": "unknown",
+      "title": "統合レビュー Contradictory Claims #4（コスパ計算シナリオ分析）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "シャクティマット Classic（¥16,500）のコスト効率は使用頻度・継続期間により大きく異なる: 楽観シナリオ（毎日5年: 1,825回）で¥9/回、現実的中央値（週3回×2年: 312回）で¥..."
+      ]
+    },
+    {
+      "id": "SRC-029",
+      "source_type": "unknown",
+      "title": "統合レビュー Executive Summary（Finding 1〜5の総合評価）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "シャクティマットは、アクプレッシャーマット市場において品質・倫理性・ブランド認知度でトップクラスの製品であり、日本語圏（Amazon.co.jp ☆4.6/5、200件超）・英語圏双方で高い満足度を獲..."
+      ]
+    },
+    {
+      "id": "SRC-030",
+      "source_type": "unknown",
+      "title": "統合レビュー Executive Summary（購入推奨判定）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "肩こり・腰痛緩和を主目的とし、長期的なセルフケア習慣を構築する意思のあるユーザーには条件付き購入推奨（Classic マット ¥16,500）とする。60日間返品保証（返送料自己負担）を前提に試用し、..."
+      ]
+    },
+    {
+      "id": "SRC-031",
+      "source_type": "unknown",
+      "title": "統合レビュー Requirement Level Matrix（MAY: 任意・ユーザーの裁量）",
+      "locator": "not_stated",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "5:integration-review:claude-opus-4.6"
+      ],
+      "claim_summaries": [
+        "安価な競合品（Nayoya or ProSourceFit）で2〜4週間試用してからShaktiへの購入判断をしてもよい（MAY）。これがShakti購入リスクを¥5,000以下に低減する最もリスクの..."
+      ]
+    }
+  ]
+}

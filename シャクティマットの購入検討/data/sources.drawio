@@ -1,0 +1,130 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1100" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Title -->
+    <mxCell id="title" value="情報源 信頼性分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#ffffff;strokeColor=none;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="40" width="820" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 1 Section (Official) -->
+    <mxCell id="t1_bg" value="Tier 1: 公式情報 (Official)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="40" y="100" width="820" height="170" as="geometry" />
+    </mxCell>
+    
+    <mxCell id="t1_1" value="★ Shakti Japan Shipping &amp; Returns&#10;[official_document] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="140" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t1_2" value="★ Shakti Japan 公式コレクションページ&#10;[official_document] (Ref: 2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="140" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t1_3" value="★ Shakti Mat Japan - Product FAQ&#10;[official_document] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="580" y="140" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t1_4" value="★ Shakti Mat Japan - Warranty &amp; Trial&#10;[official_document] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="205" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t1_5" value="★ Shakti Mat Japan Official&#10;[official_document] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="205" width="240" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 2 Section (Academic/High Reliability) -->
+    <mxCell id="t2_bg" value="Tier 2: 学術研究・高信頼 (Academic/High Reliability)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="40" y="290" width="820" height="170" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t2_1" value="★ Acupuncture for Pain - Mega-Placebo?&#10;[academic_paper] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="330" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_2" value="★ Efficacy of Acupressure Mat (MDPI)&#10;[academic_paper] (Ref: 3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="330" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_3" value="★ MDPI Applied Sciences: Efficacy...&#10;[academic_paper] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="580" y="330" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_4" value="★ Acupressure reduces perceived stress&#10;[academic_paper] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="395" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_5" value="★ Acupressure reduces subjective stress&#10;[academic_paper] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="395" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_6" value="★ Systematic Review: Effects on Anxiety&#10;[academic_paper] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="580" y="395" width="240" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 3 Section (Industry/Media/Report) -->
+    <mxCell id="t3_bg" value="Tier 3: 業界レポート・メディア (Industry/Media)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="40" y="480" width="820" height="300" as="geometry" />
+    </mxCell>
+
+    <!-- Row 1 -->
+    <mxCell id="t3_1" value="Acupressure Mat Benefits: 14 Reasons&#10;[industry_report] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="520" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_2" value="Dr. Body Gadget: Best Mats 2026&#10;[industry_report] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="260" y="520" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_3" value="Everyday Health: Best Mats 2025&#10;[industry_report] (Ref: 2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="460" y="520" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_4" value="Honest Opinions on Acupressure Mats&#10;[news_article] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="660" y="520" width="180" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Row 2 -->
+    <mxCell id="t3_5" value="Nayoya Acupressure Mat Review&#10;[industry_report] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="585" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_6" value="Shakti Mat Vs Bed Of Nails&#10;[unknown] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="260" y="585" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_7" value="コスト試算は公式価格を基に試算&#10;[unknown] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="460" y="585" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_8" value="Report: User Attribute Analysis&#10;[unknown] (Ref: 8)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="660" y="585" width="180" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Row 3 -->
+    <mxCell id="t3_9" value="Report: Competitors &amp; Evidence&#10;[unknown] (Ref: 7)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="650" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_10" value="統合レビュー Conclusion&#10;[unknown] (Ref: 2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="260" y="650" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_11" value="統合レビュー Contradictory Claims&#10;[unknown] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="460" y="650" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_12" value="統合レビュー Executive Summary&#10;[unknown] (Ref: 2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="660" y="650" width="180" height="50" as="geometry" />
+    </mxCell>
+
+     <!-- Row 4 -->
+     <mxCell id="t3_13" value="統合レビュー Req Level Matrix&#10;[unknown] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="715" width="180" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 4 Section (Community) -->
+    <mxCell id="t4_bg" value="Tier 4: コミュニティ・SNS (Community)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+      <mxGeometry x="40" y="800" width="820" height="170" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_1" value="Amazon.co.jp シャクティマット&#10;[community_data] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="840" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_2" value="Amazon.com Reviews - Return Analysis&#10;[community_data] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="840" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_3" value="Reddit r/running - Post-workout&#10;[community_data] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="580" y="840" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_4" value="Trustpilot shaktimat.co.uk&#10;[community_data] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="60" y="905" width="240" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_5" value="soloblog: シャクティマットの口コミ&#10;[community_data] (Ref: 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=11;align=left;spacing=5;" vertex="1" parent="1">
+      <mxGeometry x="320" y="905" width="240" height="50" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

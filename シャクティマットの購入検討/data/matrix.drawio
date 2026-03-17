@@ -1,0 +1,131 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <!-- Title -->
+    <mxCell id="title" value="シャクティマット購入検討：製品・競合比較マトリクス" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=20;spacing=10;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="60" width="960" height="60" as="geometry" />
+    </mxCell>
+    
+    <!-- Headers -->
+    <mxCell id="h1" value="製品モデル" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="140" width="200" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="h2" value="価格帯 (目安)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="140" width="140" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="h3" value="刺激強度 (針の数)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="140" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="h4" value="品質・素材・倫理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="140" width="200" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="h5" value="耐久性・保証" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="140" width="140" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="h6" value="推奨ユーザー" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1;fontSize=14;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="140" width="120" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Row 1: Shakti Original -->
+    <mxCell id="r1c1" value="シャクティマット&#10;(オリジナル/緑・橙)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="190" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r1c2" value="¥16,500&#10;(標準モデル)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="190" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r1c3" value="標準&#10;(6,000本)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="190" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r1c4" value="◎ オーガニック綿&#10;ABS樹脂・手作業" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="190" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r1c5" value="◎ 高い&#10;接着剤不使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="190" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r1c6" value="一般ユーザー&#10;肩こり・腰痛持ち" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="190" width="120" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Row 2: Shakti Light -->
+    <mxCell id="r2c1" value="シャクティマット&#10;(ライト/黄)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="250" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r2c2" value="¥16,500&#10;(標準モデル)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="250" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r2c3" value="マイルド (弱)&#10;(8,000本/分散)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="250" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r2c4" value="◎ オーガニック綿&#10;ABS樹脂・手作業" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="250" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r2c5" value="◎ 高い&#10;接着剤不使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="250" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r2c6" value="初心者&#10;痛みに敏感な方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="250" width="120" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Row 3: Shakti Advanced -->
+    <mxCell id="r3c1" value="シャクティマット&#10;(アドバンス/紫)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="310" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r3c2" value="¥16,500&#10;(標準モデル)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="310" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r3c3" value="ハード (強)&#10;(4,000本/集中)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="310" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r3c4" value="◎ オーガニック綿&#10;ABS樹脂・手作業" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="310" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r3c5" value="◎ 高い&#10;接着剤不使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="310" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r3c6" value="経験者のみ&#10;強い刺激を好む方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="310" width="120" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Row 4: Cheap Generic -->
+    <mxCell id="r4c1" value="安価な競合品&#10;(Nayoya/LifeZempra等)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="370" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r4c2" value="¥3,000〜¥5,000&#10;(非常に安価)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="370" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r4c3" value="標準 (バラつき有)&#10;針が鋭くない場合も" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="370" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r4c4" value="△ 合成繊維&#10;接着剤使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="370" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r4c5" value="△ 劣化しやすい&#10;針が取れる報告有" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="370" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r4c6" value="お試し・コスト重視&#10;耐久性を求めない方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="370" width="120" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Row 5: Premium Competitor -->
+    <mxCell id="r5c1" value="高級競合品&#10;(Pranamat等)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="60" y="430" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r5c2" value="¥30,000以上&#10;(高価格)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="260" y="430" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r5c3" value="標準〜強&#10;独自形状のスパイク" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="400" y="430" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r5c4" value="◎ ココナッツ繊維&#10;HIPS樹脂・エコ素材" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="560" y="430" width="200" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r5c5" value="◎ 非常に高い&#10;長期間使用可" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="760" y="430" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="r5c6" value="デザイン最優先&#10;予算に余裕がある方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;spacing=8;" vertex="1" parent="1">
+      <mxGeometry x="900" y="430" width="120" height="60" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

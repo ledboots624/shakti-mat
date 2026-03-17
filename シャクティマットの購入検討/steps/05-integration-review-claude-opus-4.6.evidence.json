@@ -1,0 +1,279 @@
+{
+  "step": 5,
+  "role": "integration-review",
+  "model": "claude-opus-4.6",
+  "extracted_at": "2026-03-17T11:47:47Z",
+  "claims": [
+    {
+      "claim": "シャクティマットは、アクプレッシャーマット市場において品質・倫理性・ブランド認知度でトップクラスの製品であり、日本語圏（Amazon.co.jp ☆4.6/5、200件超）・英語圏双方で高い満足度を獲得している。競合製品（Nayoya ¥5,000前後、ProSourceFit ¥3,500前後）と比較して価格は3〜5倍だが、素材品質・耐久性・倫理的製造で差別化されている。",
+      "evidence": "Amazon.co.jp ☆4.6/5（207件）・MONOQLO 1位、英語圏公式☆4.8/5（37,873件）。Shakti Classic ¥16,500に対し競合はNayoya ¥5,000〜、ProSourceFit ¥3,500〜（約3〜5倍）。差別化要因: GOTS認証オーガニックコットン・リサイクルフォーム・倫理的製造。confidence判定根拠: Finding 2（medium）・Finding 3（medium）・Finding 5（high）の総合であり、口コミのアフィリエイトバイアスリスクを考慮してmediumと判定。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Executive Summary（Finding 1〜5の総合評価）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "肩こり・腰痛緩和を主目的とし、長期的なセルフケア習慣を構築する意思のあるユーザーには条件付き購入推奨（Classic マット ¥16,500）とする。60日間返品保証（返送料自己負担）を前提に試用し、2週間で効果を感じなければ返品を検討すべきである。",
+      "evidence": "科学的エビデンス（運動療法との併用で慢性腰痛に中程度の有効性）、Amazon.co.jp ☆4.6/5・MONOQLO 1位の口コミ評価、60日返品保証の存在を総合した購入推奨判定。confidence判定根拠: 科学的エビデンスがmedium、口コミ評価がmediumであるため総合判断はmedium。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Executive Summary（購入推奨判定）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "シャクティマット日本公式（shaktimat.co.jp）は、Classic（¥16,500）とPremium（¥23,000）の2ラインを中心に展開し、ピロー付きセットで割引を提供している。",
+      "evidence": "Classic マット単品: ¥16,500（カラー6色：イエロー/ブラック/オレンジ/グリーン/ピンク/インディゴ）、Premium マット単品: ¥23,000（カラー3色：ブラック/Tulsi/Amber、エコラテックスフォーム・透明クリスタルスパイク）、究極のシャクティセット Classic（マット＋ピロー）: ¥22,950（通常¥25,500）、究極のシャクティセット Premium（マット＋ピロー）: ¥33,300（通常¥37,000）、Classic ピロー単品: ¥9,000、Premium ピロー単品: ¥14,000、ワンダーボール ¥16,500、トートバッグ ¥3,500、Classic内強度レベル: Light（初心者向け・スパイク多め/マイルド）・Original（標準）・Advanced/Intense（上級者向け・スパイク少なめ/鋭い）",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Japan 公式コレクションページ",
+        "source_locator": "https://shaktimat.co.jp/collections/shaktimat",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Amazon.co.jp で ☆4.6/5（レビュー200件超）、MONOQLO専門家比較テストで総合1位を獲得。ポジティブ評価（肩こり緩和・睡眠改善・リラクゼーション）が圧倒的多数だが、「最初の痛み」「価格の高さ」が主なネガティブ要因。日本語圏のブログレビューの多くはアフィリエイトリンクを含んでおり、批判的視点が構造的に薄い傾向がある（アフィリエイトバイアス）。",
+      "evidence": "Amazon.co.jp: ☆4.6/5、レビュー207件（2025年時点）。ポジティブ評価: 「肩が軽くなった」「寝落ちするほどリラックス」「整体に行く回数が減った」。ネガティブ評価: 「最初の1〜2分は絶叫級に痛い」「スパイク跡が残る」「価格が高め（1万円超）」。MONOQLO（晋遊舎）専門家比較テスト: シャクティ・ジャパン「究極のシャクティセット」が総合1位（ベストバイ）、刺激の質・寝心地・リラックス感で競合を圧倒。LEE誌: 実購入者4名による体験レビュー、全員が継続使用中。アフィリエイトバイアスおよびサバイバーシップバイアスによりネガティブ評価が構造的に過少代表。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "Amazon.co.jp シャクティマット プレミアム",
+        "source_locator": "https://www.amazon.co.jp/dp/B0DHCKTY9R",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "1 year+",
+          "participant_count": 207,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "英語圏では製品自体の評価は高い（公式サイト☆4.8/5、37,873件）一方、Trustpilotでは地域によりスコアが低く（UK 2.8/5、NZ 2.0/5、DE 2.5/5）、配送遅延・カスタマーサービスの応答性が主要な不満要因。",
+      "evidence": "Shakti Mat USA公式: ☆4.8/5、37,873レビュー、97%が推奨（公式サイト掲載のため自己選択バイアスの可能性あり）。Trustpilot UK: ☆2.8/5（41件）— 配送遅延・CS対応の不満。Trustpilot NZ: ☆2.0/5（23件）— 注文品の欠品・無応答。Trustpilot DE: ☆2.5/5（27件）— 同様の配送・CS問題。Trustpilot US (shaktimat.com): ☆3.8/5（2件のみ）— サンプル不足で参考値。MindBodyDad/The Tranquil Mind: ☆4/5程度、製品品質・耐久性を評価。YouTube比較動画: 正規品は安価品より素材・スパイクの鋭さ・耐久性で優位だが、基本的なアクプレッシャー機能自体は同等。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "Trustpilot shaktimat.co.uk",
+        "source_locator": "https://www.trustpilot.com/review/shaktimat.co.uk",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "2 years+",
+          "participant_count": 41,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットの科学的有効性は、「理学療法（運動療法）との併用で慢性腰痛に中程度の効果」が最も堅牢なエビデンスである。マット単独使用の有効性を実証した高品質RCTは存在しない。睡眠改善・自律神経調整は主観報告ベースであり客観的エビデンスは限定的。",
+      "evidence": "2021年 MDPI Applied Sciences RCT: アクプレッシャーマット＋運動療法の併用群が運動療法単独群に対してVAS（痛みスコア）・障害度・QOLで有意に改善。ただし併用効果であり、マット単独の効果とは分離不能（抱合効果の誤帰属リスク—Critic Review指摘）。2020年 系統的レビュー（ScienceDirect）: アクプレッシャーは慢性腰痛に対して疼痛緩和効果を示唆するが、研究数・サンプルサイズが小さく決定的結論に至らず。睡眠改善メタ分析（Wiley, 2025）: アクプレッシャー（手技含む）が睡眠の質・入眠潜時・総睡眠時間を有意に改善（マット特異的研究ではなく手技との区別不明確）。スウェーデン釘板研究: 脈拍低下・背部温度上昇・唾液コルチゾール低下傾向（小規模・予備的）。マット単独 vs シャム対照のRCTは確認されていない。前ステップのhighからmediumに下方修正済み。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "MDPI Applied Sciences: Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (2021)",
+        "source_locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "競合製品（Nayoya、ProSourceFit、Bed of Nails等）はShaktiの1/3〜1/5の価格で基本的なアクプレッシャー機能を提供する。Shaktiの差別化要因は素材品質・倫理的製造・耐久性であり、アクプレッシャー効果自体に本質的な差は確認されていない。",
+      "evidence": "Shakti Classic ¥16,500 vs Nayoya ¥5,000〜6,500（コスパ最高・キャリーバッグ付属・スパイク約6,200）、ProSourceFit ¥3,500〜5,000（最安価格帯・入門最適・スパイク約7,000）、Bed of Nails ¥12,000〜16,500（特許デザイン・マイルド・スパイク約8,800）、JON TORUDO ¥3,000〜5,000（MONOQLO 2位・国内人気）。YouTube比較動画: 正規品は安価品より素材・スパイクの鋭さ・耐久性で優位だが、基本的なアクプレッシャー機能自体は同等と評価。複数独立ソースの比較データで裏付けあり。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "Dr. Body Gadget: Best Acupressure Mats 2026",
+        "source_locator": "https://www.drbodygadget.com/best-acupressure-mats/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Japan公式の60日返品保証は、未破損・期間内であれば理由を問わず返品可能だが、返送料は顧客負担であり、着払い返送の場合は手数料10%が差し引かれる。交換は不可。",
+      "evidence": "返品条件: 到着後60日以内、未破損、support@shaktimat.co.jp へメール（氏名・注文番号・理由を記載）。返送料: 顧客負担（着払い返送の場合は返金額から10%手数料差し引き）。Amazon経由購入: Amazon発送分はAmazonポリシーに準拠（返品ハードルが公式直販より低い）。交換: 不可（返品のみ）。公式一次文書より確認済み。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Japan Shipping & Returns",
+        "source_locator": "https://shaktimat.co.jp/pages/shipping-returns",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "シャクティマットの最大のネガティブ要因は「初回〜数回の強い痛み」であり、これが継続使用の最大の障壁となる。大多数のユーザーは1〜2週間の適応期間を経て「痛みが快感に転換する」と報告しているが、適応前に離脱するユーザーの割合は不明（サバイバーシップバイアス）。",
+      "evidence": "日本語口コミ: 「最初の1〜2分は絶叫級に痛い」「裸で乗るのは無理」「服かバスタオル必須」。英語圏レビュー: \"steep learning curve\" \"first sessions are painful\" が頻出。推奨される適応戦略: 薄手Tシャツ着用→徐々に露出を増やす、5分→10分→20分と段階的延長。適応後の評価: 「慣れると病みつき」「寝落ちするほどリラックス」が多数。適応前に離脱するユーザーの比率はサバイバーシップバイアスにより定量データ欠落。痛みの存在はhigh confidenceだが、適応率の定量データが欠落しているためmediumと判定。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "soloblog: シャクティマットの口コミ徹底調査",
+        "source_locator": "https://shirasusolo.net/life-changing-gadgets/post-1634/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "not_stated",
+          "participant_count": 1,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "以下の条件に該当するユーザーは、シャクティマットの購入を見送るか、競合の安価品で試用すべきである: アクプレッシャー初体験で効果を試したい場合（→Nayoya ¥5,000 or ProSourceFit ¥3,500）、使用頻度が週1〜2回程度の見込みの場合、ピロー付きセットが必要な場合、既に定期的なストレッチ・ヨガ・マッサージ習慣がある場合。",
+      "evidence": "競合品推奨ケース: アクプレッシャー初体験→Nayoya ¥5,000 or ProSourceFit ¥3,500（効果確認後にShaktiへのアップグレードを検討）、使用頻度が週1〜2回程度の見込み→高額品の費用対効果が低い、ピロー付きセットが必要→Nayoya/ProSourceFitはピロー標準付属。代替手段推奨: 既に定期的なストレッチ・ヨガ・マッサージ習慣がある場合は追加的効果が限定的の可能性あり。整骨院・鍼灸院の定期通院（月2回×¥4,000＝¥8,000/月）が専門家診断付きで即効性が高い場合がある。本Findingは前ステップCritic Reviewが指摘した「購入しないシナリオの欠落（確証バイアス）」を補完する目的で追加。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "Everyday Health: Best Acupressure Mats 2025",
+        "source_locator": "https://www.everydayhealth.com/wellness/best-acupressure-mat/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "感覚過敏（触覚過敏症）・皮膚疾患（アトピー性皮膚炎の活動期・乾癬等）・開放創・妊娠中の方は、医師相談なしにシャクティマットを使用してはならない（MUST_NOT: 実質的禁忌）。",
+      "evidence": "Requirement Level MatrixにてMUST_NOT（医師相談なしの使用禁止）として明示。「非推奨」ではなく実質的禁忌として扱うべきと明記。薬機法上の「効能効果の標榜制限」と関連するが、使用禁忌としての法的拘束力はなくメーカー推奨レベル。規制当局による指導事例は現時点で確認されていない（confidence: low）。Finding 8においても同内容が記載されており、Requirement Level Matrixにて件数1件として明示。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "Everyday Health: Best Acupressure Mats 2025",
+        "source_locator": "https://www.everydayhealth.com/wellness/best-acupressure-mat/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "MUST_NOT",
+      "standard_references": []
+    },
+    {
+      "claim": "シャクティマット Classic（¥16,500）のコスト効率は使用頻度・継続期間により大きく異なる: 楽観シナリオ（毎日5年: 1,825回）で¥9/回、現実的中央値（週3回×2年: 312回）で¥53/回、悲観シナリオ（月2回×6ヶ月で放置: 12回）で¥1,375/回。",
+      "evidence": "シナリオ別コスパ分析（公式価格¥16,500を基準に算出）: 楽観（365回/年×5年=1,825回）→¥9/回。現実的中央値（156回/年×2年=312回）→¥53/回。悲観（24回/年×0.5年=12回）→¥1,375/回。前ステップが「毎日5年間」最楽観シナリオのみを代表値として提示していた問題（Contradictory Claims #4）をシナリオ分析で解決済み。confidence判定根拠: 公式価格はhigh（tier1）だが、使用頻度の仮定は実証データなしのため総合mediumと判定。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Contradictory Claims #4（コスパ計算シナリオ分析）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "睡眠改善・リラクゼーションが主目的のユーザーには、シャクティマット Classic マット（¥16,500）または究極のシャクティセット（¥22,950）を返品保証活用前提で試用することを推奨する（⭐⭐⭐ 試用推奨）。",
+      "evidence": "就寝前15〜20分の使用ルーティンが睡眠改善目的に適している。睡眠改善・リラクゼーション効果は主観的報告が豊富（Amazon口コミ「寝落ちするほどリラックス」等）だが、客観的計測データは限定的であり科学的根拠は主観報告ベース（未確定）。confidence判定根拠: 主観的効果報告はmedium信頼性、客観的エビデンスは限定的のためmediumと判定。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Conclusion（目的別推奨モデル表）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "MAY",
+      "standard_references": []
+    },
+    {
+      "claim": "既に整骨院・鍼灸院に定期通院中のユーザーに対するシャクティマットの追加効果は限定的であり、担当施術者への相談を推奨する（⭐⭐ 追加効果は限定的）。",
+      "evidence": "既に専門家によるアプローチを受けているユーザーへのシャクティマットの追加的な効果量は確定していない。整骨院・鍼灸院の定期通院（月2回×¥4,000＝¥8,000/月）の方が、専門家の診断付きで即効性が高い場合がある（Finding 8記載）。confidence判定根拠: 効果の追加性に関する実証データが存在しないため、lowとする（未確定）。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Conclusion（購入推奨度の総合判定表）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "low",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "安価な競合品（Nayoya or ProSourceFit）で2〜4週間試用してからShaktiへの購入判断をしてもよい（MAY）。これがShakti購入リスクを¥5,000以下に低減する最もリスクの低い戦略である。",
+      "evidence": "Shakti購入（¥16,500〜）のリスクを安価品（¥3,500〜5,000）で事前検証することで、アクプレッシャーが合わなければ安価品の損失のみで済む。競合品の基本的なアクプレッシャー機能はShaktiと同等（Finding 5）。Requirement Level MatrixにてMAY（任意・ユーザーの裁量）として明示。confidence判定根拠: 競合品の機能同等性はhigh（複数独立ソース）、試用戦略の有効性は合理的推論であるため総合highと判定。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "統合レビュー Requirement Level Matrix（MAY: 任意・ユーザーの裁量）",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": "MAY",
+      "standard_references": []
+    },
+    {
+      "claim": "ピロー付きセットを選択してもよい（MAY）。肩こりが主目的の場合はピロー（Classic ¥9,000 / Premium ¥14,000）が首・肩の直接刺激に有効であり、MONOQLO 1位を受賞した究極のシャクティセット Classic（¥22,950）が最適。腰痛緩和目的にはマット単品で十分。",
+      "evidence": "究極のシャクティセット Classic（マット＋ピロー）: ¥22,950（通常¥25,500）。MONOQLO総合1位（ベストバイ）受賞。ピローは首・肩の直接刺激に有効とされている。腰痛緩和には背中全体をカバーするマットが主役でありピローは必須でない。Requirement Level MatrixにてMAY（任意・ユーザーの裁量）として明示。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "Shakti Japan 公式コレクションページ",
+        "source_locator": "https://shaktimat.co.jp/collections/shaktimat",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier1",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "MAY",
+      "standard_references": []
+    }
+  ]
+}

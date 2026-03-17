@@ -1,0 +1,148 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    
+    <!-- Title -->
+    <mxCell id="2" value="確信度ヒートマップ：シャクティマット購入検討リサーチ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;spacing=10;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="40" width="940" height="50" as="geometry"/>
+    </mxCell>
+
+    <!-- Column Headers -->
+    <mxCell id="3" value="検証された主張 (Claim)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;" vertex="1" parent="1">
+      <mxGeometry x="60" y="110" width="300" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="4" value="Tier 1&#10;公式・政府・法令" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+      <mxGeometry x="360" y="110" width="160" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="5" value="Tier 2&#10;学術論文・研究機関" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+      <mxGeometry x="520" y="110" width="160" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="6" value="Tier 3&#10;業界メディア・専門家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+      <mxGeometry x="680" y="110" width="160" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="7" value="Tier 4&#10;コミュニティ・SNS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+      <mxGeometry x="840" y="110" width="160" height="40" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 1: Return Policy -->
+    <mxCell id="11" value="60日間返品保証は存在するが、返送料は顧客負担であり着払いは手数料がかかるため、実質無料ではない。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#cccccc;" vertex="1" parent="1">
+      <mxGeometry x="60" y="150" width="300" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="12" value="確信度: 高 (High)&#10;Source: 公式サイト規約" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006400;" vertex="1" parent="1">
+      <mxGeometry x="370" y="160" width="140" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="13" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="520" y="150" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="680" y="150" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="840" y="150" width="160" height="60" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 2: Back Pain Evidence -->
+    <mxCell id="21" value="運動療法との併用において、慢性腰痛患者の疼痛軽減とQOL向上に中程度の有効性が認められる。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#cccccc;" vertex="1" parent="1">
+      <mxGeometry x="60" y="210" width="300" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="22" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="360" y="210" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="23" value="確信度: 中 (Medium)&#10;Source: MDPI (2021)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#663300;" vertex="1" parent="1">
+      <mxGeometry x="530" y="220" width="140" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="680" y="210" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="840" y="210" width="160" height="70" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 3: Product Superiority -->
+    <mxCell id="31" value="Shakti Matは素材品質・耐久性・倫理的製造において、Nayoya等の安価な競合製品より優れている。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#cccccc;" vertex="1" parent="1">
+      <mxGeometry x="60" y="280" width="300" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="360" y="280" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="520" y="280" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="34" value="確信度: 高 (High)&#10;Source: 複数の比較レビュー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006400;" vertex="1" parent="1">
+      <mxGeometry x="690" y="290" width="140" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="35" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="840" y="280" width="160" height="70" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 4: Pain Barrier -->
+    <mxCell id="41" value="初回使用時の「激痛」が最大の離脱要因であり、返品理由の多くを占める。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#cccccc;" vertex="1" parent="1">
+      <mxGeometry x="60" y="350" width="300" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="42" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="360" y="350" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="43" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="520" y="350" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="44" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="680" y="350" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="45" value="確信度: 中 (Medium)&#10;Source: Amazon/Reddit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#663300;" vertex="1" parent="1">
+      <mxGeometry x="850" y="360" width="140" height="40" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 5: Hypersensitivity Risk -->
+    <mxCell id="51" value="【要検証】感覚過敏（HSP等）のユーザーにはLightモデルでも刺激が強すぎ、リスクとなる可能性がある。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="60" y="410" width="300" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="52" value="確信度: 低 (Low)&#10;Source: 公式FAQ(推論)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#990000;" vertex="1" parent="1">
+      <mxGeometry x="370" y="420" width="140" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="53" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="520" y="410" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="54" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="680" y="410" width="160" height="70" as="geometry"/>
+    </mxCell>
+    <mxCell id="55" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="840" y="410" width="160" height="70" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 6: Habit Formation -->
+    <mxCell id="61" value="【要検証】習慣形成には平均66日が必要であり、これが継続の障壁となる。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacingLeft=10;fillColor=none;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="60" y="480" width="300" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="62" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="360" y="480" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="63" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="520" y="480" width="160" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="64" value="確信度: 低 (Low)&#10;Source: 出典不明確" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#990000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="690" y="490" width="140" height="40" as="geometry"/>
+    </mxCell>
+    <mxCell id="65" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#efefef;" vertex="1" parent="1">
+      <mxGeometry x="840" y="480" width="160" height="60" as="geometry"/>
+    </mxCell>
+
+    <!-- Legend -->
+    <mxCell id="90" value="凡例：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="60" y="560" width="50" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="91" value="確信度: 高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006400;" vertex="1" parent="1">
+      <mxGeometry x="120" y="560" width="80" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="92" value="確信度: 中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#663300;" vertex="1" parent="1">
+      <mxGeometry x="210" y="560" width="80" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="93" value="確信度: 低" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#990000;" vertex="1" parent="1">
+      <mxGeometry x="300" y="560" width="80" height="30" as="geometry"/>
+    </mxCell>
+    <mxCell id="94" value="要検証項目（エビデンス不足）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#b85450;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="400" y="560" width="180" height="30" as="geometry"/>
+    </mxCell>
+
+  </root>
+</mxGraphModel>

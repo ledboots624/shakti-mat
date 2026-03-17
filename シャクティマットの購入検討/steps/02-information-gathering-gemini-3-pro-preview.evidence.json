@@ -1,0 +1,344 @@
+{
+  "step": 2,
+  "role": "information-gathering",
+  "model": "gemini-3-pro-preview",
+  "extracted_at": "2026-03-17T11:27:51Z",
+  "claims": [
+    {
+      "claim": "LifeZempraはShaktiの約1/3〜1/4の価格（$24〜$40程度）で購入可能な低価格帯入門モデルであり、素材は合成繊維中心である。",
+      "evidence": "価格 $24〜$40程度。多くのセットに枕やキャリーバッグが付属。スパイクの鋭さがShaktiより劣る、または耐久性が低い（接着剤の劣化報告あり）。エコ素材ではない。",
+      "source": {
+        "source_type": "news_article",
+        "source_title": "Honest Opinions on Acupressure Mats",
+        "source_locator": "https://mysterylores.com/news/acupressure-mats-shakti-honest-experiences/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "NayoyaはAmazon等で広く流通する「標準的な安価モデル」であり、Shaktiと同様の効果（血行促進・緩和）を謳うが、作りは一般的である。",
+      "evidence": "価格 $35〜$50程度。枕付きセットが主流。約6,210個のスパイク（標準的）。Shaktiのような針の鋭さや強度選択（Light/Advanced）がない。素材が一般的（コットン＋ウレタンフォーム＋プラスチック）。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "Nayoya Acupressure Mat Review",
+        "source_locator": "https://acupressureguide.com/nayoya-acupressure-mat-review/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Bed of Nailsはアクプレッシャーマットの市場を開拓した元祖ブランドの一つであり、品質は高いが、Shaktiほど「オーガニック・倫理的生産」を前面に出していない。",
+      "evidence": "価格 $70〜$80程度。スパイク数は約6,000個（Shakti Originalと同等）。スパイク数が多い（8,820個）モデルもあり刺激が分散されマイルドな傾向。GOTS認証オーガニックコットン等の厳格なエシカル基準は強調されていない。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Shakti Mat Vs Bed Of Nails",
+        "source_locator": "https://storage.googleapis.com/dbiptqdduqsvae/shakti-mat-vs-bed-of-nails.html",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "運動療法とアクプレッシャーマットの併用は、慢性腰痛患者の疼痛軽減とQOL向上に寄与する。",
+      "evidence": "ランダム化比較試験（RCT）において、標準的な理学療法にマット使用（1日20分〜）を追加した群は対照群と比較して有意な痛みの軽減と機能改善を示した。機序としてはゲートコントロール理論（痛みの信号遮断）やエンドルフィン分泌が示唆されている。複数のシステマティックレビューが指圧の効果を支持している。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Efficacy of an Acupressure Mat in Association with Therapeutic Exercise (MDPI)",
+        "source_locator": "https://www.mdpi.com/2076-3417/11/11/5211",
+        "access_date": "2021",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットの使用により入眠潜時の短縮や睡眠の質の主観的改善が報告されているが、頑健な臨床データは少ない。",
+      "evidence": "マット使用により心拍数が低下し、副交感神経優位の状態（リラックス反応）が誘導されることが生理学的指標で確認されている。これが「よく眠れる」という主観的評価につながっている可能性が高い。睡眠障害治療としてのエビデンスレベルはまだ高くない。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "Systematic Review: Effects of Acupressure on Anxiety",
+        "source_locator": "https://www.liebertpub.com/doi/10.1089/jicm.2020.0256",
+        "access_date": "2020",
+        "reliability_tier": "tier2",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャー（指圧）全般に関するメタ分析では、不安症状の軽減に効果があることが示されている。",
+      "evidence": "複数の研究で、指圧刺激がコルチゾール（ストレスホルモン）の低下やリラックス効果をもたらすことが示されており、マットも同様のメカニズムで作用すると考えられる。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "Acupressure Mat Benefits: 14 Reasons",
+        "source_locator": "https://www.thegoodbody.com/acupressure-mat-benefits/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "デスクワーカーや立ち仕事従事者など慢性的な筋肉疲労・コリがある人には、Shaktiの鋭い刺激が特に有効である。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "睡眠導入に課題がある人（ベッドに入っても交感神経が高ぶっているタイプ）には、マット使用後の血行促進による「ポカポカする感覚」が入眠儀式として機能する。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットを効果的に使うためには、最初の数分の激痛を「通過儀礼」として耐えられる「痛み＝効いている」と捉えられるメンタリティが必要である。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Matのフェアトレード・オーガニック素材という特徴は、エシカル消費に関心がある層に適している。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "感覚過敏（Hypersensitivity）のある人には、スパイクの刺激が神経系に過剰なストレスを与え、リラックス効果が得られない可能性がある。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "アトピー性皮膚炎・湿疹・傷など皮膚トラブルがある人がアクプレッシャーマットを使用すると、症状を悪化させるリスクが高い。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "MUST_NOT",
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットは即効性がなく、効果を得るためには最低2週間の習慣化が必要である。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "体重が極端に軽い人はアクプレッシャーマットの圧がかかりにくく、効果を感じにくい場合がある（枕を腰に当てるなどの工夫が必要）。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat User Attribute Analysis",
+        "source_locator": "not_stated",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "low",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Mat (Original) は、品質・耐久性・倫理的価値において競合他社（Nayoya, LifeZempra）を明確に上回っており、長期的な使用を前提とするなら価格差に見合う価値がある。",
+      "evidence": "Summary Tableによる比較：Shakti Mat（プレミアム素材・オーガニック・手作り・3段階強度）vs Nayoya（大量生産・標準素材・強度選択なし・$35〜50）vs LifeZempra（合成繊維・基本品質・$25〜40）。各競合製品の比較項目でShaktiの素材・鋭さ・倫理認証の優位性が示されている。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "「安さ」よりも「確実な刺激（針の鋭さ）」と「長期間の耐久性」を重視し、フェアトレードに共感するユーザーにはShakti Mat一択である。",
+      "evidence": "競合比較においてShaktiのスパイクの鋭さ・素材品質・GOTS認証オーガニックコットン等のエシカル基準の優位性が確認されている。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "「続くかわからないから安く試したい」場合の最もバランスの取れた代替案はNayoyaであり、LifeZempraは品質面での妥協が大きい。",
+      "evidence": "Nayoyaは$35〜$50で高いコストパフォーマンスと十分なユーザー評価（痛み軽減・リラックス効果）を有する。LifeZempraはスパイク耐久性低下（接着剤劣化報告）があり、エコ素材でもない。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマットは「魔法の治療器具」ではないが、腰痛緩和とリラックス（副交感神経優位化）については科学的支持が得られつつあり、セルフケアツールとして合理的に導入できる。",
+      "evidence": "RCTによる腰痛軽減効果の確認（MDPI, 2021）、心拍数低下・副交感神経優位の生理学的指標での確認（Liebertpub, 2020）、コルチゾール低下のメタ分析結果（複数研究）。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "WANT",
+      "standard_references": []
+    },
+    {
+      "claim": "Shakti Premium Mat (Original/Green) は公式サイトまたは正規代理店で購入することが推奨される。まずはOriginalから入るのが無難で、Lightは刺激が足りなくなるリスクがある。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "アクプレッシャーマット使用開始時は、最初の2週間は薄手のTシャツを着用して刺激に慣らすことが推奨される。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    },
+    {
+      "claim": "就寝前の20分間、ベッドの上でアクプレッシャーマットを使用するルーチンを確立することが推奨される。",
+      "evidence": "not_stated",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Comprehensive Research Report: Shakti Mat vs Competitors & Scientific Evidence",
+        "source_locator": "not_stated",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": "SHOULD",
+      "standard_references": []
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Title -->
+    <mxCell id="title" value="シャクティマット購入検討リサーチマップ" style="text;html=1;strokeColor=none;fillColor=#E8EAF6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;fontStyle=1;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="400" y="20" width="600" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Central Node -->
+    <mxCell id="center" value="シャクティマット&#10;購入検討" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A237E;strokeColor=#08104D;fontColor=#FFFFFF;fontSize=18;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="580" y="320" width="240" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Right Side (Benefits, Reviews, Target, Conclusion) -->
+    
+    <!-- L1: 効果・メリット -->
+    <mxCell id="r1" value="効果・メリット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="900" y="120" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="center" target="r1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    
+    <!-- L2 Nodes for r1 -->
+    <mxCell id="r1_1" value="肩こり・腰痛の緩和" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="80" width="160" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r1_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r1" target="r1_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    
+    <mxCell id="r1_2" value="睡眠の質向上・&#10;リラックス" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="130" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r1_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r1" target="r1_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r1_3" value="血行促進・温まり" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="190" width="160" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r1_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r1" target="r1_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- L1: 口コミ・評判 -->
+    <mxCell id="r2" value="口コミ・評判" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="900" y="270" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="center" target="r2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for r2 -->
+    <mxCell id="r2_1" value="最初は痛いが慣れる&#10;(3-5分が壁)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="250" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r2_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r2" target="r2_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r2_2" value="日米で高評価&#10;(Amazon ☆4.6)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="310" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r2_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r2" target="r2_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r2_3" value="返品理由1位は&#10;「痛すぎた」" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EF9A9A;strokeColor=#E57373;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="370" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r2_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r2" target="r2_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- L1: 推奨ユーザー -->
+    <mxCell id="r3" value="推奨ユーザー" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="900" y="450" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="center" target="r3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for r3 -->
+    <mxCell id="r3_1" value="慢性的なコリ・&#10;不眠に悩む人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="440" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r3_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r3" target="r3_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r3_2" value="「痛気持ちいい」が&#10;好きな人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="500" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r3_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r3" target="r3_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r3_3" value="感覚過敏・皮膚疾患&#10;の人はNG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EF9A9A;strokeColor=#E57373;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="560" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r3_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r3" target="r3_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- L1: 総合結論 -->
+    <mxCell id="r4" value="総合結論" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="900" y="640" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="center" target="r4">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for r4 -->
+    <mxCell id="r4_1" value="購入推奨度: 高&#10;(Originalモデル推奨)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#43A047;fontColor=#000000;fontSize=12;fontStyle=1;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="630" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r4_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r4" target="r4_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r4_2" value="まずは2週間&#10;試す覚悟が必要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="690" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r4_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r4" target="r4_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="r4_3" value="60日間返品保証&#10;(送料自己負担)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="1130" y="750" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_r4_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" edge="1" parent="1" source="r4" target="r4_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- Left Side (Products, Competitors, Science) -->
+
+    <!-- L1: 製品・価格 -->
+    <mxCell id="l1" value="製品・価格" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="320" y="160" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="center" target="l1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for l1 -->
+    <mxCell id="l1_1" value="Classic (緑/橙)&#10;¥16,500 (標準)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="120" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l1_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l1" target="l1_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l1_2" value="Light (黄)&#10;¥23,000 (初心者)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="180" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l1_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l1" target="l1_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l1_3" value="Premium (エコ素材)&#10;¥23,000" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="240" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l1_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l1" target="l1_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- L1: 競合比較 -->
+    <mxCell id="l2" value="競合比較" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="320" y="380" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="center" target="l2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for l2 -->
+    <mxCell id="l2_1" value="安価品は耐久性低&#10;(LifeZempra等)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="360" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l2_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l2" target="l2_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l2_2" value="Pranamatは&#10;高価格・高級" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="420" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l2_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l2" target="l2_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l2_3" value="Shaktiは品質・倫理&#10;バランス良" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#43A047;fontColor=#000000;fontSize=12;fontStyle=1;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="480" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l2_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l2" target="l2_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+
+    <!-- L1: 科学的根拠 -->
+    <mxCell id="l3" value="科学的根拠" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3949AB;strokeColor=#283593;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="320" y="580" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#9FA8DA;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="center" target="l3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- L2 Nodes for l3 -->
+    <mxCell id="l3_1" value="腰痛緩和に&#10;中程度のエビデンス" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="560" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l3_1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l3" target="l3_1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l3_2" value="エンドルフィン放出&#10;(5-10分後)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="620" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l3_2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l3" target="l3_2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <mxCell id="l3_3" value="即効性はなく&#10;継続が必要(平均66日)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5CAE9;strokeColor=#7986CB;fontColor=#000000;fontSize=12;shadow=0;spacingTop=8;spacingBottom=8;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+      <mxGeometry x="110" y="680" width="160" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="e_l3_3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=1;strokeColor=#7986CB;entryX=1;entryY=0.5;exitX=0;exitY=0.5;" edge="1" parent="1" source="l3" target="l3_3">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

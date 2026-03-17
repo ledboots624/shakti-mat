@@ -1,0 +1,121 @@
+{
+  "version": "2.5.0",
+  "topic": "シャクティマットの購入検討",
+  "description": "シャクティマットの購入検討（購入検討）",
+  "completed_at": "2026-03-17T11:58:19Z",
+  "duration_seconds": 2281,
+  "duration_human": "38m1s",
+  "steps": [
+    {
+      "id": "step1_info_gathering",
+      "step": 1,
+      "role": "information-gathering",
+      "model": "gemini-3-pro-preview",
+      "prompt_focus": "シャクティマットの全製品ラインナップ（Classic, Light, Advanced等）のスペック・価格・特徴を公式サイトおよび主要ECサイトから収集する。同時に、日本語圏（Amazon.co.jp, 楽天, X, YouTube）および英語圏（Amazon.com, Reddit, Trustpilot）の口コミを広範に収集し、主なポジティブ評価（効果の実感等）とネガティブ評価（痛み、怪しい等）を抽出する。",
+      "depends_on": [],
+      "output_file": "/Users/shige/work/test-claude/remote-test/public/shakti-mat/シャクティマットの購入検討/steps/01-information-gathering-gemini-3-pro-preview.md",
+      "output_bytes": 8674,
+      "evidence_extracted": false,
+      "duration_human": "6m19s",
+      "duration_seconds": 379
+    },
+    {
+      "id": "step2_comp_evidence",
+      "step": 2,
+      "role": "information-gathering",
+      "model": "gemini-3-pro-preview",
+      "prompt_focus": "競合製品（LifeZempra, Nayoya, Bed of Nailsなど）の価格・仕様・評価を調査し、シャクティマットとの差異を明確にする。また、アクプレッシャー（指圧マット）の効果に関する科学的エビデンス（学術論文、臨床試験、専門家の見解）を調査し、肩こり・腰痛・睡眠改善・ストレス緩和に対する医学的根拠レベルを確認する。",
+      "depends_on": [
+        "step1_info_gathering"
+      ],
+      "output_file": "/Users/shige/work/test-claude/remote-test/public/shakti-mat/シャクティマットの購入検討/steps/02-information-gathering-gemini-3-pro-preview.md",
+      "output_bytes": 9288,
+      "evidence_extracted": true,
+      "duration_human": "4m46s",
+      "duration_seconds": 286
+    },
+    {
+      "id": "step3_deep_analysis",
+      "step": 3,
+      "role": "deep-analysis",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "収集した製品情報・口コミ・競合情報・エビデンスを基に、ユーザー属性別（初心者、痛みに敏感な人、ハードユーザー等）の向き不向きを詳細に分析する。特に「価格に見合う価値があるか（コスパ）」、「科学的根拠とユーザー体験のギャップ」、「継続利用のハードル」について深く考察する。",
+      "depends_on": [
+        "step1_info_gathering",
+        "step2_comp_evidence"
+      ],
+      "output_file": "/Users/shige/work/test-claude/remote-test/public/shakti-mat/シャクティマットの購入検討/steps/03-deep-analysis-claude-sonnet-4.6.md",
+      "output_bytes": 23956,
+      "evidence_extracted": true,
+      "duration_human": "6m14s",
+      "duration_seconds": 374
+    },
+    {
+      "id": "step4_critic_review",
+      "step": 4,
+      "role": "critic-review",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "これまでの分析結果に対し、批判的検証を行う。プラセボ効果の可能性、アフィリエイト目的の過度な称賛バイアスの有無、科学的エビデンスの質（サンプル数や対照実験の有無）、競合製品に対するシャクティマットの優位性がマーケティングによるものでないか等を厳しくチェックし、過大評価を防ぐ。",
+      "depends_on": [
+        "step3_deep_analysis"
+      ],
+      "output_file": "/Users/shige/work/test-claude/remote-test/public/shakti-mat/シャクティマットの購入検討/steps/04-critic-review-claude-sonnet-4.6.md",
+      "output_bytes": 23234,
+      "evidence_extracted": false,
+      "duration_human": "3m23s",
+      "duration_seconds": 203
+    },
+    {
+      "id": "step5_integration",
+      "step": 5,
+      "role": "integration-review",
+      "model": "claude-opus-4.6",
+      "prompt_focus": "全ステップの情報を統合し、最終的な購入推奨度を判定する。目的別（肩こり、睡眠、リラックス）の推奨モデル、購入前に知っておくべき注意点（痛みへの慣れ、返品ポリシー等）、競合製品を選ぶべきケースを提示し、読者が意思決定できる具体的な結論を導き出す。",
+      "depends_on": [
+        "step4_critic_review"
+      ],
+      "output_file": "/Users/shige/work/test-claude/remote-test/public/shakti-mat/シャクティマットの購入検討/steps/05-integration-review-claude-opus-4.6.md",
+      "output_bytes": 35988,
+      "evidence_extracted": true,
+      "duration_human": "15m33s",
+      "duration_seconds": 933
+    }
+  ],
+  "artifacts": [
+    {
+      "file": "README.md",
+      "bytes": 18618
+    },
+    {
+      "file": "sources.json",
+      "bytes": 27982
+    },
+    {
+      "file": "diagram.png",
+      "bytes": 756216
+    },
+    {
+      "file": "diagram.svg",
+      "bytes": 1092425
+    },
+    {
+      "file": "slides.html",
+      "bytes": 164416
+    },
+    {
+      "file": "slides.pdf",
+      "bytes": 2084143
+    }
+  ],
+  "context_file": "context-research.json",
+  "operations": [
+    {
+      "operation": "finalize",
+      "timestamp": "2026-03-17T12:14:48Z",
+      "duration_seconds": 855,
+      "duration_human": "14m15s"
+    }
+  ],
+  "total_cumulative_seconds": 3136,
+  "last_operation_at": "2026-03-17T12:14:48Z"
+}
